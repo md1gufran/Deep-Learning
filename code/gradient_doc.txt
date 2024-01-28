@@ -1,0 +1,3 @@
+First Download data from kaggle 
+If you got .csv file convert into the tsv file using sed command
+example sed -e 's/,/\t/g' input.csv > output.csv

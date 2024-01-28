@@ -1,0 +1,9 @@
+First install tensforflow using flowing command
+pip instal tensorflow
+Ensure you have pip installed in your system
+If not installed follow these steps
+sudo apt update
+sudo apt install python3-pip
+To check for proper installation
+pip3 --version
+No need to install keras as it already there in tensorflow
