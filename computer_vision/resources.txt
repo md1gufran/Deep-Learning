@@ -1,3 +1,9 @@
 https://github.com/jbhuang0604/awesome-computer-vision
 https://github.com/kuzand/Computer-Vision-Video-Lectures
 https://github.com/kjw0612/awesome-deep-vision
+
+Also follow Keras-Computer Vision Content for Completion.
+1. Image Processing
+2. OpenCV complete
+3. Then learn Computer Vision Complete from freecodecamp.org
+3. Than learn By doing just Project Even new learning.
