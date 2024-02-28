@@ -1,0 +1,3 @@
+https://github.com/jbhuang0604/awesome-computer-vision
+https://github.com/kuzand/Computer-Vision-Video-Lectures
+https://github.com/kjw0612/awesome-deep-vision
